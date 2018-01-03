@@ -1,0 +1,61 @@
+
+
+spotify-this-song
+
+Title: Rolling in the Deep
+Artist: Adele
+Album: 21
+Link: https://p.scdn.co/mp3-preview/8c174ce25d94b502dfe31f0da8a070a32fb263db?cid=bb051ffa2fef453d9483b6d3dd8644a8
+
+
+movie-this
+
+Title: It
+Released: 2017
+Rating: 7.7
+Rotten Tomatoes: 85%
+Produced: USA, Canada
+Language: English
+Plot: A group of bullied kids band together when a shapeshifting monster, taking the appearance of a clown, begins hunting children.
+Actors: Jaeden Lieberher, Jeremy Ray Taylor, Sophia Lillis, Finn Wolfhard
+
+
+my-tweets
+
+Tweets: Outside temp is in the teens today and calling for more snow.  No motivation to get out of bed.
+When: Sat Dec 30 20:23:15 +0000 2017
+
+Tweets: Tax scam bigly and the love fest between the GOP and POTUS!
+When: Thu Dec 21 21:14:15 +0000 2017
+
+Tweets: To tweet or not to tweet, that's the question!
+When: Thu Dec 21 21:11:27 +0000 2017
+
+do-what-it-says
+
+Title: I Want It That Way
+Artist: Backstreet Boys
+Album: The Hits--Chapter One
+Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=bb051ffa2fef453d9483b6d3dd8644a8
+
+
+movie-this
+
+Title: Mr. Nobody
+Released: 2009
+Rating: 7.9
+Rotten Tomatoes: 66%
+Produced: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+
+
+spotify-this-song
+
+Title: The Sign
+Artist: Ace of Base
+Album: The Sign (US Album) [Remastered]
+Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=bb051ffa2fef453d9483b6d3dd8644a8
+
+
