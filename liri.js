@@ -24,6 +24,9 @@ if (myCommand === "do-what-it-says") {
 		console.log(dataArr);
 		mySong = dataArr[1];
 		mySpotify();
+		myMovie = dataArr[3];
+		myOmdb();
+		myTweet();
 	});
 
 } else if (myCommand === "my-tweets") {
